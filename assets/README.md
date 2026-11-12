@@ -1,6 +1,6 @@
 # Assets del perfil
 
-- `banner-eclipse-red.png`: banner negro con la luna roja.
+- `banner-pino.png`: banner negro con la luna roja y el nombre Stefano Pino.
 - `moon-avatar.png`: avatar de la luna.
 - `moon-logo.png`: versión transparente para fondos oscuros.
 

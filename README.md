@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-eclipse-red.png" alt="Stefano Pino — Product engineer & full-stack" width="100%" />
+<img src="assets/banner-pino.png" alt="Stefano Pino — Product engineer & full-stack" width="100%" />
 
 <br />
 
