@@ -37,29 +37,18 @@ Me interesa menos “hacer una web” y más **entender el problema, probar una 
 3. **Comparto cuando cumple su objetivo.** No publico todo lo que empiezo; publico lo que ya resuelve algo.
 4. **Mantengo privado lo que está en el horno.** Proyectos, clientes y experimentos se quedan en privado hasta que estén listos para salir.
 
-## 🚀 Ahora mismo
+## 🚀 En el taller
 
-| Proyecto | Qué es | Estado |
+| Línea de trabajo | Qué es | Estado |
 |---|---|---|
-| **Guanábana ERP** | ERP + stock en tiempo real + bot de WhatsApp para una panadería artesanal. | 🔒 Privado hasta su lanzamiento |
-| **Landing Guanábana** | Landing pública con catálogo, carrito y WhatsApp. | 🌐 Público |
+| **Productos para negocios** | Sistemas de pedidos, stock, clientes y automatización para operaciones reales. | 🔒 Privado hasta su lanzamiento |
 | **Sintetic IA Showcase** | Demo visual de un SaaS de gestión para complejos deportivos. | 🌐 Público |
+| **Experimentos** | Prototipos de UI, bots y automatizaciones que pruebo antes de compartir. | 🧪 Laboratorio |
 
-## 📌 Proyectos públicos
+## 📌 Proyectos propios
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kodeguis/Landing-Guanabana">
-        <img src="assets/landing.png" alt="Landing de Guanábana Horneada" width="100%" />
-      </a>
-      <br /><br />
-      <b>Landing Guanábana</b><br />
-      Landing oficial de una panadería de masa madre en Trujillo. React + Vite + Tailwind, catálogo y pedido por WhatsApp.
-      <br /><br />
-      <a href="https://kodeguis.github.io/Landing-Guanabana/">🌐 Ver demo</a> ·
-      <a href="https://github.com/Kodeguis/Landing-Guanabana">Código</a>
-    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Kodeguis/sintetic-ia-showcase">
         <img src="assets/sintetic.png" alt="Dashboard de Sintetic IA" width="100%" />
@@ -71,8 +60,23 @@ Me interesa menos “hacer una web” y más **entender el problema, probar una 
       <a href="https://kodeguis.github.io/sintetic-ia-showcase/">🌐 Ver demo</a> ·
       <a href="https://github.com/Kodeguis/sintetic-ia-showcase">Código</a>
     </td>
+    <td width="50%" valign="top">
+      <b>Inventario-S</b><br />
+      Sistema de inventario con React + Vite. Un ejercicio de producto para ordenar stock y movimientos.
+      <br /><br />
+      <a href="https://inventario-s.vercel.app">🌐 Ver demo</a> ·
+      <a href="https://github.com/Kodeguis/Inventario-S">Código</a>
+    </td>
   </tr>
 </table>
+
+## 🧩 Trabajo de cliente
+
+<img src="assets/landing.png" alt="Landing para una panadería artesanal" width="100%" />
+
+**Landing para una panadería artesanal** — React, Vite, Tailwind y Supabase. Un trabajo de cliente, no mi identidad: diseño, catálogo y pedido por WhatsApp.
+
+<a href="https://github.com/Kodeguis/Landing-Guanabana">Ver repositorio</a> · <a href="https://kodeguis.github.io/Landing-Guanabana/">Ver demo</a>
 
 ## 🛠️ Stack
 
