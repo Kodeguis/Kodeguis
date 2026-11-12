@@ -1,8 +1,7 @@
 # Assets del perfil
 
 - `banner-eclipse-red.png`: banner negro con la luna roja.
-- `moon-avatar.png`: avatar de la luna (imagen proporcionada por el usuario).
-- `moon-logo.png`: versi√≥n transparente para fondos oscuros.
-- `moon-avatar-red.png` / `moon-logo-red.png`: mismas variantes.
+- `moon-avatar.png`: avatar de la luna.
+- `moon-logo.png`: versiÛn transparente para fondos oscuros.
 
-La luna fue recortada y fusionada a partir del PNG proporcionado por el usuario; no se recre√≥ ni se a√±adieron personajes.
+La luna fue recortada y fusionada a partir del PNG proporcionado por el usuario, sin recrearla ni aÒadir personajes.
