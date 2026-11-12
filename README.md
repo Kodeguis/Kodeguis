@@ -15,7 +15,7 @@ Lo que todavía no está listo se queda en el laboratorio. Lo que sí, sale a la
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kodeguis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kodeguis)
 [![Trujillo](https://img.shields.io/badge/Trujillo-Per%C3%BA-B91C1C?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Building](https://img.shields.io/badge/Estado-Construyendo-0924f4?style=for-the-badge&logo=statuspage&logoColor=0924f4)](#)
+[![Building](https://img.shields.io/badge/Estado-Construyendo-0924f4?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 
 </div>
 
