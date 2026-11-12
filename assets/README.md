@@ -1,8 +1,8 @@
 # Assets del perfil
 
-- `banner-moon-real.png`: banner del perfil.
-- `moon-avatar.png`: avatar (luna de albedo NASA LROC).
-- `moon-avatar-red.png`: variante roja.
-- `moon-logo.png` / `moon-logo-red.png`: versiones transparentes.
+- `banner-eclipse-red.png`: banner negro con la luna roja.
+- `moon-avatar.png`: avatar de la luna (imagen proporcionada por el usuario).
+- `moon-logo.png`: versión transparente para fondos oscuros.
+- `moon-avatar-red.png` / `moon-logo-red.png`: mismas variantes.
 
-Textura lunar: mapa de albedo **NASA LROC / Scientific Visualization Studio**, dominio público.
+La luna fue recortada y fusionada a partir del PNG proporcionado por el usuario; no se recreó ni se añadieron personajes.
