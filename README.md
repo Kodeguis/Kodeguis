@@ -116,5 +116,5 @@ Si algo no está público, no significa que no exista: significa que todavía se
 <br />
 
 <div align="center">
-  <sub>Hecho con curiosidad, código y un cocodrilo panadero 🐊🥖</sub>
+  <sub>Hecho con curiosidad y código. 🌙</sub>
 </div>
