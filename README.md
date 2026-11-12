@@ -95,15 +95,6 @@ Me interesa menos “hacer una web” y más **entender el problema, probar una 
 
 </div>
 
-## 📈 Actividad
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kodeguis&show_icons=true&hide_border=true&theme=gruvbox&locale=es" alt="Estadísticas de GitHub" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodeguis&layout=compact&hide_border=true&theme=gruvbox&locale=es" alt="Lenguajes más usados" />
-
-</div>
-
 ## 🔒 Sobre lo privado
 
 No todo lo que hago está acá. Trabajo en productos y sistemas para negocios que **se mantienen privados hasta que están listos para operar**. Cuando un proyecto cumple su objetivo, lo cuento, lo muestro o lo abro.
