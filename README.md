@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Stefano Reyes — Product engineer & full-stack" width="100%" />
+<img src="assets/banner-moon.png" alt="Stefano Reyes — Product engineer & full-stack" width="100%" />
 
 <br />
 
